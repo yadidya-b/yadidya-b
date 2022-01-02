@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+🔭 I'm currently doing my Ph.D. on the Variability of internal tides in the Andaman Sea at IIT Delhi.
+
+📫 How to reach me: yadidyabadarvada@gmail.com
+
+🐦  Let's talk more on [Twitter](https://twitter.com/yadidya_b)
+
 <!--
 **Yadidya5/Yadidya5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
