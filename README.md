@@ -1,4 +1,9 @@
-### Hi there 👋
+# B. Yadidya
+
+### Ph.D. student (Senior Research Fellow)
+
+
+[![ORCID](https://img.shields.io/static/v1?label=ORCID&message=0000-0001-5999-4917&color=green&style=flat-square&logo=orcid)](https://orcid.org/0000-0001-6897-8134)
 
 🔭 I'm currently doing my Ph.D. on the Variability of internal tides in the Andaman Sea at IIT Delhi.
 
@@ -6,17 +11,3 @@
 
 🐦  Let's talk more on [Twitter](https://twitter.com/yadidya_b)
 
-<!--
-**Yadidya5/Yadidya5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
