@@ -10,7 +10,7 @@
 [![Research Gate](https://img.shields.io/static/v1?label=&message=Research%20Gate&color=black&style=flat-square&logo=ResearchGate)](https://www.researchgate.net/profile/B-Yadidya-2)
 
 
-🔭 I'm currently doing my Ph.D. on the Variability of internal tides in the Andaman Sea at IIT Delhi.
+🔭 I submitted my Ph.D. thesis on the "Variability of internal waves in the Andaman Sea" at IIT Delhi. I'm currently looking for a **post-doc** position.
 
 📫 How to reach me: yadidyabadarvada@gmail.com
 
