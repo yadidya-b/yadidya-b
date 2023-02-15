@@ -1,6 +1,6 @@
 # B. Yadidya
 
-### Ph.D. student (Senior Research Fellow)
+### Postdoc at University of Michigan
 
 
 [![ORCID](https://img.shields.io/static/v1?label=ORCID&message=0000-0001-5999-4917&color=green&style=flat-square&logo=orcid)](https://orcid.org/0000-0001-6897-8134)
@@ -9,8 +9,6 @@
 [![LinkedIn](https://img.shields.io/static/v1?label=&message=LinkedIn&color=0077B5&style=flat-square&logo=linkedin)](https://www.linkedin.com/in/yadidya-badarvada-0132931a3/)
 [![Research Gate](https://img.shields.io/static/v1?label=&message=Research%20Gate&color=black&style=flat-square&logo=ResearchGate)](https://www.researchgate.net/profile/B-Yadidya-2)
 
-
-🔭 I submitted my Ph.D. thesis on the "Variability of internal waves in the Andaman Sea" at IIT Delhi. I'm currently looking for a **post-doc** position.
 
 📫 How to reach me: yadidyabadarvada@gmail.com
 
