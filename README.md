@@ -12,5 +12,4 @@
 
 📫 How to reach me: yadidyabadarvada@gmail.com
 
-🐦  Let's talk more on [Twitter](https://twitter.com/yadidya_b)
 
